@@ -10,7 +10,7 @@
 }
 
 .navlink-active:hover {
-  color: #fff;
+  color: #ffffff;
 }
 
 .navlink-not-active:hover {
@@ -18,18 +18,9 @@
 }
 
 .navlink-not-active {
-  color: #fff;
+  color: #ffffff;
   list-style: none;
   transition: all 200ms ease-in;
-}
-
-.link-active {
-  color: #003366;
-  transition: all 200ms ease-in;
-}
-
-.link-active:hover {
-  color: #004a93;
 }
 
 .main-app {
